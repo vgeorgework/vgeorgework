@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vgeorgework/vgeorgework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-🔭 I’m currently working on kubernetes.☸️
-
+- 👋 I’m Vineeth George
+- 👀 I ❤️ DevOps ...
+- 🌱 I’m currently working as a DevOps Engineer...
+- 📫 Checkout my Linkedin page ... www.linkedin.com/in/vineethgeorge
